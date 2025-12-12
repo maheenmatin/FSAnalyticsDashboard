@@ -1,4 +1,4 @@
-# FSAnalyticsDashboard
+# FSAnalytics - Power BI Mini Dashboard
 
 ## Problem
 Leaders need a fast read on revenue health, customer activity, and cash risk (late settlements), with enough detail to act by region/segment/product.
